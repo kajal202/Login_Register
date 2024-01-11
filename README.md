@@ -1,3 +1,3 @@
-Login and register from using 
-# frontend-> React
-# Database-> mongodb
+# Login and register from using 
+frontend-> React
+Database-> mongodb
