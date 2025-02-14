@@ -1,3 +1,3 @@
-# Login and register from using 
+Login and register using mern stack 
 frontend-> React
 Database-> mongodb
