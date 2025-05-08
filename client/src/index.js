@@ -10,7 +10,7 @@ import SignUp from './components/SignUp';
 ReactDOM.render(
     <BrowserRouter>
      <Routes>
-       <Route path='/' element={< SignIn/>} >
+       <Route path='/' element={< App/>} >
        <Route path='signin' element = {<SignIn/>} />
        <Route path='signup' element={<SignUp/>} />
        <Route path='learn' element={<Learn/>} />
